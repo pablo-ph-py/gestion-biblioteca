@@ -25,13 +25,19 @@ para rastrear las actividades de los usuarios.
 ### **Persistencia de Datos**
 - Toda la información (usuarios, libros y préstamos) se guarda en archivos JSON, lo que asegura que los datos estén disponibles incluso después de cerrar el programa.
 
-## Cómo usar el programa
+## Instalación y Uso
 
-1. **Requisitos previos**:
+   **Requisitos previos**:
    - Tener instalado Python 3.x.
 
-2. **Clonar el repositorio**:
    ```bash
+
+   **Clonar repositorio **:
    git clone https://github.com/pablo-ph-py/gestion-bibliotecaria.git
+
+   
+   **Navegar al directorio del proyecto **:
    cd gestion-bibliotecaria
+
+   **Ejecutar programa **:
    python gestion_biblioteca.py
