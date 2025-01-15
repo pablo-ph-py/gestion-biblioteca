@@ -32,6 +32,6 @@ para rastrear las actividades de los usuarios.
 
 2. **Clonar el repositorio**:
    ```bash
-   git clone https://github.com/tu-usuario/gestion-bibliotecaria.git
+   git clone https://github.com/pablo-ph-py/gestion-bibliotecaria.git
    cd gestion-bibliotecaria
    python gestion_biblioteca.py
